@@ -1,11 +1,12 @@
 ## Detetive
 
 - Uma pessoa para ser a Mestra de Jogo, demais para serem jogadores
-- Escolhe-se uma temática. Exemplo: restaurante
-- A Mestra de Jogo distribui, secretamente, os personagens a todos e todas jogadores. Exemplo: garçom, chef, violinista, etc
+- A partida se passa numa festa, com personagens como: DJ, dançarino, garçom, fotórgrafo, repórter, influencer, dono da festa, famoso, segurança, etc
+- É interessante delimitar o espaço de jogo, e locais como "mesa de doces", "mesa de bebidas", "palco", "local pro DJ", etc.
+- A Mestra de Jogo distribui, secretamente, os personagens a todos e todas jogadores.
 - Além disso, distribui-se também o papel de Detetive e Assassino (para jogo infantil, veja "Detetive e a Cobra" mais pra baixo)
 - Defini-se um gesto para o Assassino assassinar e uma ação para o Detetive prender.
-- Sugestão de assassinar: mão na frente do peite em formato de arminha, fazendo um tiro em direção e visivelmente visível para o alvo ver que levou o tiro
+- Sugestão de assassinar: "mostrar a língua" para o alvo (obs: instrua os jogadores para evitarem muitos movimentos involuntários com a boca para não confundir)
 - Sugestão de prender: apontar uma insígnia de polícia para a pessoa e falar bem alto "Você está preso em nome da lei!"
 - Assassino não pode assassinar o detetive, caso aconteça, o detetive pode preder na hora o assassino e ganhar o jogo.
 - O detetive só pode tentar prender uma vez: se não prender o assassino, o assassino ganha
@@ -17,15 +18,17 @@
 - O jogo funciona igual, mas troca-se Assassino por "Cobra" e assassinar por "envenenar"
 - Não existe morte, mas sim "desmaio".
 - A Mestra do Jogo pode atuar como uma "ambulância" para levar o jogador desmaiado ao hospital
-- A sugestão de ação para "envenenar" é trocada por um "mostrar a língua" (obs: instrua os jogadores para evitarem muitos movimentos involuntários com a boca para não confundir)
+
 
 ## Detetive Paralelo
 
 - Para jogar paralelamente em um encontro de amigos
 - Não há personagens, todos jogam enquanto o encontro acontece: pegar bebidas, trocar de música, jogar outros jogos...
 - É permitido assassinar em diferentes cômodos, desde que a ação seja visível
-- Ao ser assassinado, o jogador discretamente espera cerca de 30s, se dirige até ao local que está o marcador de assassinado e o coloca (ex: um "colar" de corda vermelha) 
+- Ao ser assassinado, o jogador discretamente espera cerca de 30s, se dirige até ao local que está o marcador de assassinado e o coloca (ex: um "colar" de corda vermelha)
+- Para ser mais visível, sugerimos que a ação de assassinar seja mão na frente do peite em formato de arminha, fazendo um tiro em direção
 - Opcional: em um grande número de jogadores, o detetive pode tentar prender 2 ou até 3 vezes, dando um papel/cartão para o alvo. Se o alvo não for o assassino, o alvo apenas guarda o cartão no bolso.
+
 
 ## Detetive Spyfall
 
