@@ -1,0 +1,3 @@
+- Uma pessoa pensa numa ação ou verbo. Ex: caminhar, regar as plantas
+- As outras perguntam usando o verbo "tibitar". Ex: eu tibito dentro de casa? Você tibitaria com as mãos?
+- Pode chutar a qualquer momento qual a ação/verbo. Se acertar, a pessoa que pensou confirma
